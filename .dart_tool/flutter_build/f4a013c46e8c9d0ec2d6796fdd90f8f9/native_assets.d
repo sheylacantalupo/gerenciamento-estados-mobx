@@ -1,0 +1,1 @@
+ /home/sheyla/Documents/Repositórios/gerenciamento-estados-mobx/.dart_tool/flutter_build/f4a013c46e8c9d0ec2d6796fdd90f8f9/native_assets.yaml: 

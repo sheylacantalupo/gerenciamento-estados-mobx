@@ -1,0 +1,4 @@
+#Fri Oct 18 18:35:45 BRT 2024
+base.0=/home/sheyla/Documents/Repositórios/gerenciamento-estados-mobx/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
